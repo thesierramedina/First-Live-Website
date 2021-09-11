@@ -1,0 +1,21 @@
+body {
+		background-color: mintcream;
+		text-align: center;
+		}
+h1 {
+		text-align: center;
+		font-family: monospace;
+		font-size: 3em;
+		}
+h2 {
+		text-align: center;
+		font-family: monospace;
+		}
+img {
+		display: flex-box;
+		justify-content: center;
+		}
+p {
+		text-align: center;
+		font-family: monospace;
+		}
